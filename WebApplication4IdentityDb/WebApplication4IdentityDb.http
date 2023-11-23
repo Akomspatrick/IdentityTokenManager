@@ -1,0 +1,6 @@
+@WebApplication4IdentityDb_HostAddress = http://localhost:5190
+
+GET {{WebApplication4IdentityDb_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
